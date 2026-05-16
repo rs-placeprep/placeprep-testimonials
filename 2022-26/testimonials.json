@@ -1,8 +1,7 @@
-{
-  "schema": {
+[
+  {
     "testimonial": "string",
     "name": "string",
     "branch": "string"
-  },
-  "testimonials": []
-}
+  }
+]
